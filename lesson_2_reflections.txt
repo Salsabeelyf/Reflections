@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area is a place to hold tracked files which are ready to be commited.
 	It enables me to track my files and review my commits before making them.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I add changes i made to the staging area one at a time.
+	This way i can assure that every change is commited seperately.
