@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I would use slack or google drive. 
 	Both would be harder than Git and GitHub as i have to compress my folder and upload it every time i want to share a change i made.
 	Once i get used to working with Git and GitHub, it would save me much time and effort.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	I would use a seperate branch when i want to make changes and i'm not sure if it work or not. In this case i don't want to affect the main branch or cause a bug.
+	Working on the master branch may save me much time but if something went wrong because of changes i made, my work may be corrupted and i won't be able to restore my working version.
